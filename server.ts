@@ -42,6 +42,12 @@ async function startServer() {
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>${baseUrl}/#pricing</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
     <loc>${baseUrl}/#contact</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>

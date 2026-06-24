@@ -9,6 +9,7 @@ import HomeView from './views/HomeView';
 import AboutView from './views/AboutView';
 import ContactView from './views/ContactView';
 import BlogView from './views/BlogView';
+import PricingView from './views/PricingView';
 import ServiceDetailView from './views/ServiceDetailView';
 import AreaLandingView from './views/AreaLandingView';
 
@@ -27,7 +28,7 @@ export default function App() {
       const hash = window.location.hash.replace('#', '');
       if (hash) {
         // Simple mapping
-        if (['home', 'about', 'services', 'contact', 'blog'].includes(hash)) {
+        if (['home', 'about', 'services', 'pricing', 'contact', 'blog'].includes(hash)) {
           setCurrentPage(hash as PageId);
         }
       }
@@ -120,6 +121,8 @@ export default function App() {
       
       case 'contact':
         return <ContactView />;
+      case 'pricing':
+        return <PricingView />;
       case 'blog':
         return <BlogView setCurrentPage={setCurrentPage} />;
       

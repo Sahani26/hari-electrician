@@ -16,6 +16,7 @@ export default function Header({ currentPage, setCurrentPage }: HeaderProps) {
     { label: 'Home', id: 'home' as PageId },
     { label: 'About Us', id: 'about' as PageId },
     { label: 'Services', id: 'services' as PageId },
+    { label: 'Pricing Rates', id: 'pricing' as PageId },
     { label: 'Blog', id: 'blog' as PageId },
     { label: 'Contact Us', id: 'contact' as PageId },
   ];

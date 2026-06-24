@@ -2,6 +2,7 @@ export type PageId =
   | 'home'
   | 'about'
   | 'services'
+  | 'pricing'
   | 'emergency'
   | 'residential'
   | 'commercial'
