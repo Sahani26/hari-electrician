@@ -1,0 +1,6 @@
+{
+  "name": "Hari Electrician",
+  "description": "Professional electrician services in Piplod, Vesu & Surat. Repairs, wiring, installations, maintenance, and 24/7 emergency support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

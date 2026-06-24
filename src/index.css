@@ -1,0 +1,75 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #0086FF;
+  --color-secondary: #C4A034;
+  --color-dark: #003769;
+  --color-light-bg: #F8F9FA;
+  
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-display: 'Inter', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+/* Custom scrollbar and premium smoothness styling */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-light-bg);
+  color: var(--color-dark);
+}
+
+/* Sleek Interface theme classes */
+.hero-gradient {
+  background: linear-gradient(135deg, var(--color-dark) 0%, #004d92 100%);
+}
+
+.service-card {
+  background: white;
+  border-bottom: 3px solid transparent;
+  transition: all 0.3s ease;
+}
+
+.service-card:hover {
+  border-bottom-color: var(--color-primary);
+  transform: translateY(-2px);
+}
+
+.stat-box {
+  border-left: 3px solid var(--color-secondary);
+  padding-left: 12px;
+}
+
+.btn-primary {
+  background-color: var(--color-primary);
+  color: white;
+  transition: all 0.2s ease;
+}
+
+.btn-primary:hover {
+  background-color: #0073dd;
+}
+
+.btn-secondary {
+  background-color: var(--color-secondary);
+  color: white;
+}
+
+/* Custom styles for animations and details */
+.glow-effect {
+  box-shadow: 0 0 20px rgba(0, 134, 255, 0.15);
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, var(--color-dark) 0%, var(--color-primary) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Accordion transition help */
+.accordion-content {
+  transition: max-height 0.3s ease-out, padding 0.3s ease-out;
+}
+
