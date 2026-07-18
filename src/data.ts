@@ -2,11 +2,11 @@ import { Service, ServiceArea, Testimonial, FAQItem, BlogPost } from './types';
 
 export const BUSINESS_INFO = {
   name: "Hari Electrician",
-  phone: "+91 7897954795",
-  phoneDisplay: "+91 7897954795",
+  phone: "+91 7897954794",
+  phoneDisplay: "+91 7897954794",
   email: "harielectrcian@gmail.com",
   address: "Udhana - Magdalla Rd, Opp. JH05 Ambani School, Vesu, Surat, Gujarat 395007",
-  whatsappUrl: "https://wa.me/917897954795?text=Hi%20Hari%20Electrician%2C%20I%20need%20electrical%20services%20support.",
+  whatsappUrl: "https://wa.me/917897954794?text=Hi%20Hari%20Electrician%2C%20I%20need%20electrical%20services%20support.",
   workingHours: "24 Hours (Emergency Support) / 8:00 AM - 10:00 PM (Regular Services)",
   experience: "10+ Years of Experience",
   googleMapsEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3721.2059345758245!2d72.7812!3d21.1444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be04df867f0f625%3A0x6b8a8b1a8d0a8b9f!2sVesu%2C%20Surat%2C%20Gujarat!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
@@ -243,7 +243,7 @@ export const FAQS: FAQItem[] = [
   },
   {
     question: "Do you provide emergency electrician services?",
-    answer: "Yes, absolutely! Hari Electrician provides 24/7 round-the-clock emergency electrical repair services across Surat, including Piplod, Vesu, Althan, Adajan, and City Light. If you have sparking panels, burnt smells, or total blackout emergencies, call +91 7897954795 for immediate assistance."
+    answer: "Yes, absolutely! Hari Electrician provides 24/7 round-the-clock emergency electrical repair services across Surat, including Piplod, Vesu, Althan, Adajan, and City Light. If you have sparking panels, burnt smells, or total blackout emergencies, call +91 7897954794 for immediate assistance."
   },
   {
     question: "Can you install ceiling fans?",
@@ -289,7 +289,7 @@ Place your hand on your wall switches and sockets periodically. If they feel not
 ### 5. Ditch Outdated Ceramic Fuses
 Traditional rewireable ceramic fuses are slow to react and can be easily bypassed by inserting thick copper wires. Modern Miniature Circuit Breakers (MCB) are fast-acting, magnetic-thermal switches that trip instantly the millisecond an overload occurs, safeguarding your expensive devices.
 
-Need an electrical safety audit of your home in Vesu, Piplod, or Adajan? Call **Hari Electrician** at **+91 7897954795** today.`,
+Need an electrical safety audit of your home in Vesu, Piplod, or Adajan? Call **Hari Electrician** at **+91 7897954794** today.`,
     date: "June 18, 2026",
     readTime: "5 min read",
     category: "Safety Guide",
@@ -335,7 +335,7 @@ To make your backup system last up to 5-7 years, remember to:
 2. Clean the battery lead terminals with warm water to remove white sulfate corrosion, then coat them with petroleum jelly or grease.
 3. Keep the inverter in a well-ventilated, dust-free corner.
 
-For expert inverter bypass wiring, battery diagnostic checks, or new system commission in Surat, call **Hari Electrician** at **+91 7897954795**!`,
+For expert inverter bypass wiring, battery diagnostic checks, or new system commission in Surat, call **Hari Electrician** at **+91 7897954794**!`,
     date: "May 22, 2026",
     readTime: "6 min read",
     category: "Appliances",
@@ -364,7 +364,7 @@ Lightning strikes can travel through utility lines, creating catastrophic voltag
 ### 5. Always Wear Footwear
 Never handle any electrical appliance—including refrigerators, washing machines, iron boxes, or water pumps—with bare wet feet or while standing on a damp floor. Always wear rubber-soled slippers or shoes to isolate yourself from the ground.
 
-Stay safe this rainy season. If you experience tripping switches, sparking sockets, or need an urgent monsoon electrical check in Surat, contact **Hari Electrician** at **+91 7897954795** immediately!`,
+Stay safe this rainy season. If you experience tripping switches, sparking sockets, or need an urgent monsoon electrical check in Surat, contact **Hari Electrician** at **+91 7897954794** immediately!`,
     date: "June 02, 2026",
     readTime: "4 min read",
     category: "Seasonal Advice",

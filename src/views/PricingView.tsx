@@ -90,7 +90,7 @@ export default function PricingView() {
     message += `_Please confirm my booking slots and technicians._`;
 
     const encoded = encodeURIComponent(message);
-    window.open(`https://wa.me/917897954795?text=${encoded}`, '_blank');
+    window.open(`https://wa.me/917897954794?text=${encoded}`, '_blank');
   };
 
   const handleInquirySubmit = (e: FormEvent) => {
